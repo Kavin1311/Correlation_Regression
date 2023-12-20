@@ -18,16 +18,13 @@ If y represents the dependent variable and x the independent variable, this rela
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
-
 # Program :
 
-![image](https://github.com/Kavin1311/Correlation_Regression/assets/145695724/c0a233b7-b1d4-4bec-beef-08e7ef0754ab)
+![image](https://github.com/Kavin1311/Correlation_Regression/assets/145695724/d4070022-0f0b-4d1a-9c49-03c41eadb3cd)
+
 
 # Output 
-![image](https://github.com/Kavin1311/Correlation_Regression/assets/145695724/44d2a708-d9eb-49f8-bc9a-fd189e1a491c)
+![image](https://github.com/Kavin1311/Correlation_Regression/assets/145695724/d2f0097e-db06-4ca1-ab28-01c2ea3da484)
 
-
-
-# Result
+RESULT:
 Hence the data has been analyzed using Coefficient of Correlation and Regression line.
-# Output 
