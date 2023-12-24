@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+NAME : Kavinajai.T
+
+Register Number: 212223100020
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
